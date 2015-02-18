@@ -1,0 +1,12 @@
+[19:50:42] [main/INFO]: Setting user: Player78
+[19:50:48] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:50:50] [Client thread/ERROR]: Couldn't initialize twitch stream
+[19:51:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Kd's Funky Fancy New Blocks Mod
+[19:51:13] [Sound Library Loader/INFO]: Sound engine started
+[19:51:30] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:51:31] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:51:31] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Kd's Funky Fancy New Blocks Mod
+[19:51:31] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:51:32] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:51:33] [Sound Library Loader/INFO]: Sound engine started
+[19:52:01] [Client thread/INFO]: Stopping!

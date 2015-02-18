@@ -1,0 +1,21 @@
+{
+{
+  "modid":"KdsFFNBM",
+  "name":"Kd's Funky Fresh New Blocks Mod",
+  "description":"A mod made for the ToastPack featuring Waffles, Toast, new fancy chisel-like blocks, and more!",
+  "version":"0.0.1",
+  "mcVersion":"1.7.10",
+  "url":"",
+  "updateUrl":"",
+  "authorList":{
+    "kd8lvt",
+  },
+  "credits":"",
+  "logoFile":"",
+  "screenshots":{
+  },
+  "parent":"",
+  "dependencies":{
+  }
+}
+}
